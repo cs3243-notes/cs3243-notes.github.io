@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "CS3243 Notes"
-  avatar           :
+  avatar           : "profile.png"
   bio              : "Course notes for CS3243: Introduction to AI."
   location         :
   employer         :
