@@ -1,4 +1,5 @@
-These notes were taken from a previous iteration of an introductory course on artificial intelligence. They are based on the National University of Singapore's CS3243 course, and are compiled by Priyanka Golia, with help from students including Ang Zheng Yong, Guo Yichao, Khiew Zhi Kai, and Vincent Neo. 
+These notes are based on CS 3243: Introduction to Artificial Intelligence taught by [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/) in Fall 2020 (Sem 1 of AY 20-21). 
+
 
 ## Contributing
 
@@ -27,3 +28,5 @@ To make any changes to this repo,
 
 * Avoid vertical bars `|` in any inline math equations (i.e., within a paragraph of text). Otherwise, the GitHub Markdown compiler will interpret it as a table cell element (see GitHub Markdown spec [here](https://github.github.com/gfm/)). Instead, use one of `\mid`, `\vert`, `\lvert`, or `\rvert` instead. For double bar lines, write `\|` instead of `||`.
 
+## Acknowledgements 
+The handwritten notes were compiled into LaTeX by Priyanka Golia, with help from students including Ang Zheng Yong, Guo Yichao, Khiew Zhi Kai, and Vincent Neo.
