@@ -9,13 +9,14 @@ We are aiming to write our notes in Markdown, which will then be compiled into H
 To make any changes to this repo,
 1. Fork this repo by clicking the "fork" button in the top right.
 1. Make the changes you want and push them to your own forked copy of this repo.
-    * The .md files for the lecture notes can be located under `/files/\<lecture\_name\>.md`.
+    * The .md files for the lecture notes can be located under `/files/<lecture_name>.md`.
 1. Go back to GitHub to creata a pull request to bring your changes into this repo.
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
 1. Clone the repository and made updates as detailed above
 1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
+    * Note that the latest version of ruby may not be compatible; ruby version 2.7 may be needed.
 1. Run `bundle clean` to clean up the directory (no need to run `--force`)
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
