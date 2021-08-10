@@ -23,3 +23,7 @@ Notes
 1. [Bayesian Networks](/files/l9.pdf): Partially observable environments. Bayesian networks.
 1. [Knowledge Representation](/files/l10.pdf): Propositional logic. Resolution.
 
+Notes (markdown)
+======
+1. [Introduction](/files/l1.md)
+
