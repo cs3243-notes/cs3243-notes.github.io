@@ -25,5 +25,5 @@ Notes
 
 Notes (markdown)
 ======
-1. [Introduction](/files/l1.md)
+1. [Introduction](/files/l1/)
 
