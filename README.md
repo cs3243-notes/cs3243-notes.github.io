@@ -1,6 +1,6 @@
 These notes were taken from a previous iteration of an introductory course on artificial intelligence. They are based on the National University of Singapore's CS3243 course, and are compiled by Priyanka Golia, with help from students including Ang Zheng Yong, Guo Yichao, Khiew Zhi Kai, and Vincent Neo. 
 
-# Contributing
+## Contributing
 
 This material is still under construction! Although most of the notes have been written up in PDF format, you will probably find several typos. If you do, please inform us under GitHub issues or submit a pull request with your fixes via GitHub.
 
@@ -20,7 +20,7 @@ To make any changes to this repo,
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
-### Notes about writing math equations
+## Notes about writing math equations
 
 * Start and end math equations with `$$` **for both inline and display equations**. To make a display equation, put one newline before the starting `$$` a newline after the ending `$$`.
 
