@@ -26,10 +26,10 @@ To make any changes to this repo,
 ## Remarks about writing math equations in markdown
 
 * Basic syntax for markdown can be found [here](https://www.markdownguide.org/basic-syntax/).
-* `$~~~~~$` can be used to create spaces for alignment purposes.
 * Start and end math equations with `$$` **for both inline and display equations**.
     * To make a display equation, put one newline before the starting `$$` a newline after the ending `$$`.
 * To convert the LaTeX algorithms to markdown algorithms, you may enclose the math statements with `$` symbols.
+* `$~~~~~$` can be used to create spaces for alignment purposes.
 * Avoid vertical bars `|` in any inline math equations (i.e., within a paragraph of text). Otherwise, the GitHub Markdown compiler will interpret it as a table cell element (see GitHub Markdown spec [here](https://github.github.com/gfm/)). Instead, use one of `\mid`, `\vert`, `\lvert`, or `\rvert` instead. For double bar lines, write `\|` instead of `||`.
 * Remember to remove the `&` and `_/` symbols as well because they may cause the markdown parser to crash.
 * If for some reason the parser cannot handle symbols inside the `$ math $` statements, so you have to add a `\` next to your symbols, i.e. (`\_` instead of `_`).
