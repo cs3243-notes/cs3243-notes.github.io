@@ -1,4 +1,4 @@
-These notes are based on CS 3243: Introduction to Artificial Intelligence taught by [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/) in Fall 2020 (Sem 1 of AY 20-21). 
+These notes are based on CS 3243: Introduction to Artificial Intelligence taught by [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/) in Fall 2020 (AY20/21 Semester 1). 
 
 
 ## Contributing
@@ -17,16 +17,23 @@ To make any changes to this repo,
 
 1. Clone the repository and made updates as detailed above
 1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
+    * Note that nodeJS might have to be installed separately.
     * Note that the latest version of ruby may not be compatible; ruby version 2.7 may be needed.
 1. Run `bundle clean` to clean up the directory (no need to run `--force`)
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
-## Notes about writing math equations
+## Remarks about writing math equations in markdown
 
-* Start and end math equations with `$$` **for both inline and display equations**. To make a display equation, put one newline before the starting `$$` a newline after the ending `$$`.
-
+* Basic syntax for markdown can be found [here](https://www.markdownguide.org/basic-syntax/).
+* `$~~~~~$` can be used to create spaces for alignment purposes.
+* Start and end math equations with `$$` **for both inline and display equations**.
+    * To make a display equation, put one newline before the starting `$$` a newline after the ending `$$`.
+* To convert the LaTeX algorithms to markdown algorithms, you may enclose the math statements with `$` symbols.
 * Avoid vertical bars `|` in any inline math equations (i.e., within a paragraph of text). Otherwise, the GitHub Markdown compiler will interpret it as a table cell element (see GitHub Markdown spec [here](https://github.github.com/gfm/)). Instead, use one of `\mid`, `\vert`, `\lvert`, or `\rvert` instead. For double bar lines, write `\|` instead of `||`.
+* Remember to remove the `&` and `_/` symbols as well because they may cause the markdown parser to crash.
+* If for some reason the parser cannot handle symbols inside the `$ math $` statements, so you have to add a `\` next to your symbols, i.e. (`\_` instead of `_`).
 
-## Acknowledgements 
-The handwritten notes were compiled into LaTeX by Priyanka Golia, with help from students including Ang Zheng Yong, Guo Yichao, Khiew Zhi Kai, and Vincent Neo.
+## Acknowledgements
+
+The handwritten notes were compiled into LaTeX by [Priyanka Golia](https://github.com/priyanka-golia), with help from students including [Ang Zheng Yong](https://github.com/arsatis), [Guo Yichao](https://github.com/gycc7253), Khiew Zhi Kai, and [Vincent Neo](https://github.com/tenvinc).
