@@ -1,5 +1,4 @@
-These notes are based on CS 3243: Introduction to Artificial Intelligence taught by [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/) in Fall 2020 (AY20/21 Semester 1). 
-
+These notes are based on CS 3243: Introduction to Artificial Intelligence taught by [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/) in Fall 2020 (AY20/21 Semester 1).
 
 ## Contributing
 
@@ -8,9 +7,10 @@ This material is still under construction! Although most of the notes have been 
 We are aiming to write our notes in Markdown, which will then be compiled into HTML using Jekyll. Please add your changes directly in Markdown source code.
 
 To make any changes to this repo,
+
 1. Fork this repo by clicking the "fork" button in the top right.
 1. Make the changes you want and push them to your own forked copy of this repo.
-    * The .md files for the lecture notes can be located under `/files/<lecture_name>.md`.
+   - The .md files for the lecture notes can be located under `/files/<lecture_name>.md`.
 1. Go back to GitHub to creata a pull request to bring your changes into this repo.
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
