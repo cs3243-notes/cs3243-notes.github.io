@@ -3,12 +3,12 @@ permalink: /
 title: "Contents"
 excerpt: "CS3243 Notes"
 author_profile: false
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-These notes were taken from a previous iteration of an introductory course on artificial intelligence. They are based on the National University of Singapore's CS3243 course, and are compiled by Priyanka Golia, with help from students including Ang Zheng Yong, Guo Yichao, Khiew Zhi Kai, and Vincent Neo.
+These notes are based on CS 3243: Introduction to Artificial Intelligence taught by [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/) in Fall 2020 (AY20/21 Semester 1).
 
 Notes
 ======
@@ -36,4 +36,10 @@ Notes (markdown -- under construction)
 1. [Adversarial Search](/files/l8/)
 1. [Bayesian Networks](/files/l9/)
 1. [Knowledge Representation](/files/l10/)
+
+Acknowledgements
+======
+The handwritten notes were compiled into LaTeX by [Priyanka Golia](https://github.com/priyanka-golia), with help from students including [Ang Zheng Yong](https://github.com/arsatis), [Guo Yichao](https://github.com/gycc7253), Khiew Zhi Kai, and [Vincent Neo](https://github.com/tenvinc).
+
+They were later compiled into Markdown by the teaching team of AY21/22 Semester 1, including [Gabriel Sim](https://github.com/GabrielSimbingyang), [Pang Zhanzhong](https://github.com/pangzhan27), [Priyanka Golia](https://github.com/priyanka-golia), and [Yang Suwei](https://github.com/swxsw).
 
