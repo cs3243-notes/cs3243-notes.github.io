@@ -12,6 +12,8 @@ These notes are based on CS 3243: Introduction to Artificial Intelligence taught
 
 Notes
 ======
+Lecture notes are on overleaf. You should click on "Recompile" to view the latest PDF.  You can also download the PDF. The download button is near the Recompile option. 
+
 1. [Introduction](https://www.overleaf.com/read/nrzkqrpxmqsm): What is artificial intelligence? Overview of the course.
 1. [Uninformed Search](https://www.overleaf.com/read/tsysdfxhnyvq): Goal-based agents. BFS. DFS. UCS.
 1. [Informed Search](https://www.overleaf.com/read/hgpqsywtdtrp): Heuristics. A\*. Greedy Best-First Search.
