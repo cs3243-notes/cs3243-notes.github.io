@@ -12,16 +12,18 @@ These notes are based on CS 3243: Introduction to Artificial Intelligence taught
 
 Notes
 ======
-1. [Introduction](/files/l1.pdf): What is artificial intelligence? Overview of the course.
-1. [Uninformed Search](/files/l2.pdf): Goal-based agents. BFS. DFS. UCS.
-1. [Informed Search](/files/l3.pdf): Heuristics. A\*. Greedy Best-First Search.
-1. [Local Search](/files/l4.pdf): Hill-climbing. Simulated annealing.
-1. [Constraint Satisfaction Problems](/files/l5.pdf): Backtracking search. Inference.
-1. [Markov Decision Processes](/files/l6.pdf): Stochastic environments. Bellman equation. Value and policy iteration.
-1. [Reinforcement Learning](/files/l7.pdf): Q-learning. Approximate Q-learning.
-1. [Adversarial Search](/files/l8.pdf): Games. Minimax algorithm. Alpha-beta pruning.
-1. [Bayesian Networks](/files/l9.pdf): Partially observable environments. Bayesian networks.
-1. [Knowledge Representation](/files/l10.pdf): Propositional logic. Resolution.
+Lecture notes are on overleaf. You should click on "Recompile" to view the latest PDF.  You can also download the PDF. The download button is near the Recompile option. 
+
+1. [Introduction](https://www.overleaf.com/read/nrzkqrpxmqsm): What is artificial intelligence? Overview of the course.
+1. [Uninformed Search](https://www.overleaf.com/read/tsysdfxhnyvq): Goal-based agents. BFS. DFS. UCS.
+1. [Informed Search](https://www.overleaf.com/read/hgpqsywtdtrp): Heuristics. A\*. Greedy Best-First Search.
+1. [Local Search](https://www.overleaf.com/read/fzxzggrbrqvj): Hill-climbing. Simulated annealing.
+1. [Constraint Satisfaction Problems](https://www.overleaf.com/read/yktfjwgpwwzg): Backtracking search. Inference.
+1. [Markov Decision Processes](https://www.overleaf.com/read/jqxzrhtkbzfw): Stochastic environments. Bellman equation. Value and policy iteration.
+1. [Reinforcement Learning](https://www.overleaf.com/read/wggdhtcnrcxd): Q-learning. Approximate Q-learning.
+1. [Adversarial Search](https://www.overleaf.com/read/msygptcsgtvm): Games. Minimax algorithm. Alpha-beta pruning.
+1. [Bayesian Networks](https://www.overleaf.com/read/gsdxyytypjnp): Partially observable environments. Bayesian networks.
+1. [Knowledge Representation](https://www.overleaf.com/read/rskykfrvtzfd): Propositional logic. Resolution.
 
 
 Notes (markdown -- under construction)
