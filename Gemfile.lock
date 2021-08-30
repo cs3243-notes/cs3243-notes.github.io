@@ -271,8 +271,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-<<<<<<< HEAD
-   2.2.22
-=======
    2.2.26
->>>>>>> master
