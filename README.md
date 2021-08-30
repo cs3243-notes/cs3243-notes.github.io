@@ -36,4 +36,7 @@ To make any changes to this repo,
 
 ## Acknowledgements
 
-The handwritten notes were compiled into LaTeX by [Priyanka Golia](https://github.com/priyanka-golia), with help from students including [Ang Zheng Yong](https://github.com/arsatis), [Guo Yichao](https://github.com/gycc7253), Khiew Zhi Kai, and [Vincent Neo](https://github.com/tenvinc).
+The handwritten notes were compiled into LaTeX by [Priyanka Golia](https://priyanka-golia.github.io), with help from students including [Ang Zheng Yong](https://github.com/arsatis), [Guo Yichao](https://github.com/gycc7253), Khiew Zhi Kai, and [Vincent Neo](https://github.com/tenvinc).
+
+They were later compiled into Markdown by the teaching team of AY21/22 Semester 1, including [Gabriel Sim](https://github.com/GabrielSimbingyang), [Pang Zhanzhong](https://github.com/pangzhan27), [Priyanka Golia](https://priyanka-golia.github.io), and [Yang Suwei](https://github.com/swxsw).
+
