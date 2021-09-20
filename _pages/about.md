@@ -35,7 +35,7 @@ Notes (markdown -- under construction)
 1. [Constraint Satisfaction Problems](/files/l5/)
 1. [Markov Decision Processes](/files/l6/)
 1. [Reinforcement Learning](/files/l7/)
-1. [Games](/files/l8/)
+1. [Games: Adversarial Search](/files/l8/)
 1. [Bayesian Networks](/files/l9/)
 1. [Knowledge Representation](/files/l10/)
 
