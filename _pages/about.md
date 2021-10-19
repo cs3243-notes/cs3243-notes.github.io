@@ -21,8 +21,8 @@ Lecture notes are on overleaf. You should click on "Recompile" to view the lates
 1. [Constraint Satisfaction Problems](https://www.overleaf.com/read/yktfjwgpwwzg): Backtracking search. Inference.
 1. [Markov Decision Processes](https://www.overleaf.com/read/jqxzrhtkbzfw): Stochastic environments. Bellman equation. Value and policy iteration.
 1. [Reinforcement Learning](https://www.overleaf.com/read/wggdhtcnrcxd): Q-learning. Approximate Q-learning.
-1. [Games](https://www.overleaf.com/read/msygptcsgtvm): Minimax algorithm. Alpha-beta pruning.
 1. [Bayesian Networks](https://www.overleaf.com/read/gsdxyytypjnp): Partially observable environments. Bayesian networks.
+1. [Games](https://www.overleaf.com/read/msygptcsgtvm): Minimax algorithm. Alpha-beta pruning.
 1. [Knowledge Representation](https://www.overleaf.com/read/rskykfrvtzfd): Propositional logic. Resolution.
 
 
@@ -35,8 +35,8 @@ Notes (markdown -- under construction)
 1. [Constraint Satisfaction Problems](/files/l5/)
 1. [Markov Decision Processes](/files/l6/)
 1. [Reinforcement Learning](/files/l7/)
-1. [Games: Adversarial Search](/files/l8/)
 1. [Bayesian Networks](/files/l9/)
+1. [Games: Adversarial Search](/files/l8/)
 1. [Knowledge Representation](/files/l10/)
 
 Acknowledgements
