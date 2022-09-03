@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-These notes are based on CS 3243: Introduction to Artificial Intelligence taught by [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/) in Fall 2020 (AY20/21 Semester 1).
+These notes are based on CS 3243: Introduction to Artificial Intelligence taught by [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/) in Fall 2020 (AY20/21 Semester 1) and Fall 2021 (AY 21/22 Semester 1).
 
 Notes
 ======
