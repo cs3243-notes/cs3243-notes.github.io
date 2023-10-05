@@ -2,9 +2,8 @@ These notes are based on CS 3243: Introduction to Artificial Intelligence taught
 
 ## Contributing
 
-This material is still under construction! Although most of the notes have been written up in PDF format, you will probably find several typos. If you do, please inform us under GitHub issues or submit a pull request with your fixes via GitHub.
+This material is still under construction! Although most of the notes have been written up in Markdown, you will probably find several typos. If you do, please inform us under GitHub issues or submit a pull request with your fixes via GitHub.
 
-We are aiming to write our notes in Markdown, which will then be compiled into HTML using Jekyll. Please add your changes directly in Markdown source code.
 
 To make any changes to this repo,
 
